@@ -3,7 +3,7 @@
 - Problem: <a href="https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/">Leet Code</a>
 - Date: 23 Feb, 2024
 - Author: <a href="https://saadahmedev.com">Saad Ahmed</a>
-- 
+
 <br>
 
 ### Solution 1
