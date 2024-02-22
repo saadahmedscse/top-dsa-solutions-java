@@ -2,7 +2,7 @@
 - Difficulty: Easy
 - Problem: <a href="https://leetcode.com/problems/contains-duplicate/">Leet Code</a>
 - Date: 23 Feb, 2024
-- Author: <a href="https://github.com/saadahmedscse">Saad Ahmed</a>
+- Author: <a href="https://saadahmedev.com">Saad Ahmed</a>
 
 ### Solution 1
 - Approach: Brute Force
